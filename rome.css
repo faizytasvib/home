@@ -1,0 +1,85 @@
+	* {
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+	}
+	ul {
+		list-style-type: none;
+		margin: 0px;
+	}
+	li {
+		float: left;
+		height: 40px;
+		margin: 0px 1px;
+	}
+	a:link, a:visited { 
+		display: block;
+		width: 170px;
+		height: 30px;
+		line-height: 40px;
+		background-color: #3D0031;
+		color: white;
+		text-decoration: none;
+		text-align: center;
+		font-weight: bold;
+		text-transform: uppercase;
+		padding: 5px;
+		text-align: center;
+	}
+	a:hover, a:active {
+		background-color: #B50188;
+	}
+	div {
+		line-height: normal;
+		font-weight: bold;
+		font-size: 18px;
+		text-align: center;
+	}
+	h1 {
+		font-size: 50px;
+		padding: 0;
+		text-align: center;
+	}
+	h2 {
+		font-size: 30px;
+		text-align: center;
+	}
+	h3 {
+		font-size: 30px;
+		text-align: center;
+	}
+	h4 {
+		font-size: 30px;
+		text-align: center;
+	}
+	h5 {
+		font-size: 30px;
+		text-align: center;
+	}
+	p {
+		font-size: 17px;
+		text-align: center;
+		margin: 10px;
+		padding: 10px;
+	}
+	img {
+		margin: 10px;
+		text-align: center;
+	}
+	table {
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 100%;
+	}
+	td, th {
+		border: 1px solid #000000;
+		text-align: center;
+		padding: 8px;
+	}
+	body {
+		background-color: #ffe6fa;
+	}
+	div.b {
+		float: right;
+	}
+	div.a {
+		float: left;
+	}
